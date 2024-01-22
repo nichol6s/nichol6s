@@ -1,8 +1,8 @@
-# 👋 Olá, meu nome é Nicholas
+# 👋 Hey, my name is Nicholas
 
-💜 Explorando novas tecnologias e desenvolvendo soluções de software.
+💜 Exploring new technologies and developing software solutions.
 
-🎓 Cursando Análise e Desenvolvimento de Sistemas na FIAP.
+🎓 Currently studying Systems Analysis and Development at FIAP
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nichol6s&theme=tokyonight&show_icons=true" />
