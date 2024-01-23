@@ -1,6 +1,6 @@
 # 👋 Hey, my name is Nicholas
 
-💜 Exploring new technologies and developing software solutions.
+💜 Exploring new technologies and developing software solutions
 
 🎓 Currently studying Systems Analysis and Development at FIAP
 
