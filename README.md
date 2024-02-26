@@ -2,7 +2,7 @@
 
 💜 Exploring new technologies and developing software solutions
 
-🎓 Currently studying React Native and TypeScript
+📚 Currently studying React Native and TypeScript
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nichol6s&theme=tokyonight&show_icons=true" />
