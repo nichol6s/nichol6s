@@ -1,9 +1,11 @@
-# 👋 Hey, my name is Nicholas
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" height="45" /> Hey, my name is Nicholas
 
-💜 Exploring new technologies and developing software solutions
+<div style="margin-top: 20px;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Purple%20Heart.png" alt="Purple Heart" width="20" height="20" /> Exploring new technologies and developing software solutions
+</div> 
 
-📚 Currently studying React Native and TypeScript
-
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="20" height="20" /> Currently studying React Native and TypeScript
+  
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nichol6s&theme=tokyonight&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nichol6s&hide=html&layout=compact&theme=tokyonight" />
