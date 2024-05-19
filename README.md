@@ -3,12 +3,13 @@
   - 💜 Exploring new technologies and developing software solutions
   - 📚 Currently studying React Native and TypeScript
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nichol6s&theme=tokyonight&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nichol6s&hide=html&layout=compact&theme=tokyonight" />
-</div>
+### 📈 Statistics
 
-<br>
+| My Streak                                                                                                                                                            | Top Languages                                                                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nichol6s&theme=tokyonight&card_height=200" alt="GitHub Streak" /></a> | <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nichol6s&hide=html&layout=compact&theme=tokyonight" /> | 
+
+### 🚀 Technologies
 
 <div> 
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -44,6 +45,6 @@
   </a>
   
   <a href="mailto:nicholas.santosp@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:nicholas.santosp@gmail.com"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:nicholas.santosp@gmail.com"/>
   </a>
 </div>
